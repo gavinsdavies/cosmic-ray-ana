@@ -7,10 +7,4 @@ dependencies:
   - uproot
   - scipy
   - matplotlib
-  - mesa-libGL
-  - mesa-dri-drivers
-  - libselinux
-  - libXdamage
-  - libXxf86vm
-  # Required for ROOT's tests as they use lsb_release
-  - redhat-lsb-core
+  - mesa-libgl-cos7-aarch64
