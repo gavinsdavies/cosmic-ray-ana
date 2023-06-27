@@ -1,6 +1,6 @@
 name: conda-root-env
 channels:
-  - conda-forge/label/gcc7
+  - conda-forge
 dependencies:
   - python>=3.6
   - root
