@@ -7,3 +7,4 @@ dependencies:
   - uproot
   - scipy
   - matplotlib
+  - mesa-libgl-cos6-x86_64
